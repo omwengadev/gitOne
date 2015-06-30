@@ -5,5 +5,9 @@ public class ClassTwo extends Classs{
 		//calling a function
 		writesomething("inheritance"); 
 			}
+	public void justaFunction(){
+		
+	
+	}
 	}
 	
